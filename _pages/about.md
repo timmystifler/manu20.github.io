@@ -12,7 +12,9 @@ This is the front page of a website that is powered by the [Academic Pages templ
 A data-driven personal website
 ======
 2012-2015. MS. USTC
+
 2015-2019. Senior Engineer. IEG. Tencent
+
 2024- Now. Researcher. AIP. Bilibili
 
 Getting started
